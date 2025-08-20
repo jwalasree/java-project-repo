@@ -1,0 +1,5 @@
+USERNAME       ACCOUNTNUMBER       PIN       CURRENTBALANCE 
+Kumar          1001                1234      3300           
+Hemanth        1002                4321      6000           
+Nikhil         1003                1111      7000           
+NEHA           1005                1256      2000           
